@@ -29,7 +29,7 @@ Tech: HTML, CSS, JavaScript
 
 ---
 
-## 📘 Currently Learning
+## 📘 Currently Learning...
 
 - Deep dive into **React.js** (hooks, state management, components)  
 - Building REST APIs with **Node.js + Express**  

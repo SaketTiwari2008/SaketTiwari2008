@@ -1,7 +1,7 @@
 # Hi 👋, I'm Saket Tiwari
 
 🎓 IT Engineering Student | 💻 MERN Stack Learner  
-🎥 Sharing coding projects & tutorials on [Code With Saket](https://www.youtube.com/@Code_With_Saket)  
+🎥 Sharing coding projects & tutorials on [Code With Saket](https://www.youtube.com/@code-with-saket)  
 
 ---
 
@@ -48,7 +48,7 @@ Tech: HTML, CSS, JavaScript
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [Saket Tiwari](https://www.linkedin.com/in/saket-tiwari-639623290/)  
-- 🎥 YouTube: [Code With Saket](https://www.youtube.com/@Code_With_Saket)  
+- 🎥 YouTube: [Code With Saket](https://www.youtube.com/@code-with-saket)  
 - 📧 Email: tiwarisaket369@gmail.com  
 
 ---
